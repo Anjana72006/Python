@@ -1,5 +1,5 @@
 #Python Program to get Student details
-#Author=Sarju S
+#Author=Anjana Krishna
 #Date=October 1,2024
 
 print('I Love Phython')
