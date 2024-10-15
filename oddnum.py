@@ -1,3 +1,6 @@
+# Author Anjana Krishna
+#date 14 oct 2024
+# program to write n odd numbrs
 limit=int(input("Enter the limit:"))
 odd_number=1
 count=0
