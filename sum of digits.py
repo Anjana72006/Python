@@ -1,10 +1,14 @@
-#Author Anjana Krishna
-# date 14 oct 2024
-# program to write sum of digit of a number
-num=int(input("Enter a number:"))
-sum=0
-while num>0:
-    r=num%10
-    num=num//10
-    sum=sum+r
-print("Sum of digits:",sum)
+'''
+Author:Anjana Krishna
+Date:22-10-2024
+program to find largest of three numbers
+'''
+num1=int(input("Enter first number:"))
+num2=int(input("Enter second number:"))
+num3=int(input("Enter third number:"))
+if num1>num2 and num1>num3:
+     print("The largest number is:",num1)
+elif num2>num1 and num2>num3:
+     print("The largest number is:",num2)
+else:
+     print("The largest number is:",num3)
