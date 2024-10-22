@@ -1,5 +1,5 @@
 '''
-Author:Indhu Subash
+Author:Anjana Krishna
 Date:15-10-2024
 '''
 purchase_amount=int(input("Enter the purchase amount:"))
